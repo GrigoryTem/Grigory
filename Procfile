@@ -1,1 +1,1 @@
-worker: vkbot.py
+worker: VKbot.py
